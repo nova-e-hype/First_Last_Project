@@ -1,3 +1,4 @@
 Hello World,
-This is my first commit in the entire git bash
+This is my first commit in the entire git bash.
+This world filled with pain.
 
